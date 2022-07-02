@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-#include <stfio.h>
+#include <stdio.h>
 /**
  * main - Enty point
  *
