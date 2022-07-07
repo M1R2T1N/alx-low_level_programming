@@ -1,7 +1,7 @@
 *include "main.h"
 
 /**
- * main - Returns the largest 3 numbers
+ * largest_number - Returns the largest 3 numbers
  * @a: first integer
  * @b: second integer
  * @c: third integer
