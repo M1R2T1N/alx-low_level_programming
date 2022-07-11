@@ -1,9 +1,9 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * rev_string - This function print a string reverser
  *
  * @s: this is the pointer that point to a string
+ * Return: void which means our answer is correct.
  */
 
 void rev_string(char *s)
