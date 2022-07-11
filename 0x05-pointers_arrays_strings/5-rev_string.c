@@ -31,10 +31,10 @@ void rev_string(char *s)
 	{
 
 		c = *end_c;
-		*end_c = start_c;
-		*start_c = c;
+		*end_c = Start_c;
+		*Start_c = c;
 
-		start_c++;
+		Start_c++;
 		end_c--;
 	}
 }
