@@ -8,6 +8,7 @@
  *
  * Return: this return to dest, that concatenates two strings
  */
+
 char *_strcat(char *dest, char *src)
 {
 	int index = 0, int dest_len = 0;
