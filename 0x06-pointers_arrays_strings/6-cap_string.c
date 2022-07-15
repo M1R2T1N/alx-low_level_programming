@@ -7,7 +7,7 @@
  *
  * Return: String capitalized
  */
-char *cap_string(char *entry)
+char *cap_string(char *)
 {
 	int conversion, i, count;
 
